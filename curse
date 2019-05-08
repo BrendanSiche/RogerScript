@@ -1,0 +1,238 @@
+#!/bin/bash
+clear
+echo "W             '          
+                  
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H           '           
+                  
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A         '          
+                  
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T       '          
+                  
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+                  
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '          
+H                 
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O               
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '          
+H O R               
+                  
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R               
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I             
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B             
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L           
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N               
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I               
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G             
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  T                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                
+                " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                  
+C               " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                  
+C U              " | boxes
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                  
+C U R            " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                  
+C U R S            " | boxes
+
+sleep 0.3
+clear
+echo "W H A T   A   '           
+H O R R I B L E         
+N I G H T  TO                
+H A V E  A                  
+C U R S E           " | boxes
